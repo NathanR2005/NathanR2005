@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NathanR2005
-- 👀 I’m interested in a programming related carrer
+- 👀 I’m interested in a programming related career
 - 🌱 I’m currently learning C++ and Python
 - 💞️ I’m looking to collaborate on various projects to futher my overall knowlegde
 - 📫 How to reach me: natero360edu@gmail.com
